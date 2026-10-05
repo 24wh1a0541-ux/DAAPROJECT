@@ -45,8 +45,7 @@ The prompts used for the pseudocode, code and visualizations are listed in [`Pro
 
 ![Merge sort recursion tree](Visualization/Visualization.png)
 
-**2. Interactive step-by-step visualizer** – [`Visualization/MergeSort_Interactive.html`](Visualization/MergeSort_Interactive.html)
-(download and open in any browser), or open it online: https://claude.ai/artifact/Ga8d4br2SeQaycyGXjYztr
+**2. Interactive step-by-step visualizer** – [▶️ Open Merge Sort Visualizer](https://24wh1a0541-ux.github.io/DAAPROJECT/Unit1_AlgorithmAnalysis/Visualization/MergeSort_Interactive.html)
 
 It has Play / Pause, Next / Back, a step slider, a speed control, and you can type your own 8 numbers.
 
@@ -68,10 +67,6 @@ python3 Project2_MergeSortTree.py     # prints before/after and creates Visualiz
 ```
 To try other numbers, change `data` at the bottom of `Project2_MergeSortTree.py` (keep 8 elements),
 or type them into the interactive visualizer.
-
-## Interactive Visualization
-
-[▶️ Open Merge Sort Visualizer](https://24wh1a0541-ux.github.io/DAAPROJECT/Unit1_AlgorithmAnalysis/Visualization/MergeSort_Interactive.html)
 
 ## Folder Structure
 ```
