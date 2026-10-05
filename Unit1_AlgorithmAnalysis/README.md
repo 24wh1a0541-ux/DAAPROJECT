@@ -69,6 +69,10 @@ python3 Project2_MergeSortTree.py     # prints before/after and creates Visualiz
 To try other numbers, change `data` at the bottom of `Project2_MergeSortTree.py` (keep 8 elements),
 or type them into the interactive visualizer.
 
+## Interactive Visualization
+
+[▶️ Open Merge Sort Visualizer](https://24wh1a0541-ux.github.io/DAAPROJECT/Unit1_AlgorithmAnalysis/Visualization/MergeSort_Interactive.html)
+
 ## Folder Structure
 ```
 Unit1_AlgorithmAnalysis/
